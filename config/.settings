@@ -1,0 +1,17 @@
+{
+    "projectName": "new_study_dev",
+    "username": "admin@study.hayai",
+    "id": "96ae3e40-e51e-11e6-baf7-73104cc707b9",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap4.salesforce.com",
+    "workspace": "C:\\Users\\annie\\Documents\\dev_prj",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
